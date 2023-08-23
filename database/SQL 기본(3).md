@@ -103,3 +103,14 @@ having구에 조건문을 사용
   - max()와 min() : 초댓값과 최솟값을 계산
   - stddev() : 표준편차를 계산
   - variance () : 분산을 계산
+
+
+
+#### SELECT문 실행 순서
+
+1. FROM
+2. WHERE
+3. GROUP BY
+4. HAVING
+5. SELECT
+6. ORDER BY
